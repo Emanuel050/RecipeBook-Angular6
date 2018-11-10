@@ -1,0 +1,4 @@
+Anguar commands:
+ng serve - start app 
+
+ng g c "name" - create new component dir.
